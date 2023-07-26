@@ -1,3 +1,14 @@
+# status
+
+[이것](https://blog.expo.dev/expo-sdk-49-c6d398cdf740)을 따라서 진행함.
+
+```
+$ npx expo start
+...
+Android Bundling failed 4389ms
+error: node_modules/expo/build/Expo.fx.js: ~/kitchen-sink/node_modules/expo/build/Expo.fx.js: helperSkipTransparentExpressionWrappers.skipTransparentExprWrapperNodes is not a function
+```
+
 # NativeBase v3 KitchenSink
 
 A sample application that showcases various components that come built-in with NativeBase v3.
